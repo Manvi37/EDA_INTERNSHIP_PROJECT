@@ -1,0 +1,184 @@
+S.No.	Name	Location	Year	Kilometers_Driven	Fuel_Type	Transmission	Owner_Type	Mileage	Engine	Power	Seats	New_Price	Price
+0	Maruti Wagon R LXI CNG	Mumbai	2010	72000	CNG	Manual	First	26.6 km/kg	998 CC	58.16 bhp	5		1.75
+1	Hyundai Creta 1.6 CRDi SX Option	Pune	2015	41000	Diesel	Manual	First	19.67 kmpl	1582 CC	126.2 bhp	5		12.5
+2	Honda Jazz V	Chennai	2011	46000	Petrol	Manual	First	18.2 kmpl	1199 CC	88.7 bhp	5	8.61 Lakh	4.5
+3	Maruti Ertiga VDI	Chennai	2012	87000	Diesel	Manual	First	20.77 kmpl	1248 CC	88.76 bhp	7		6
+4	Audi A4 New 2.0 TDI Multitronic	Coimbatore	2013	40670	Diesel	Automatic	Second	15.2 kmpl	1968 CC	140.8 bhp	5		17.74
+5	Hyundai EON LPG Era Plus Option	Hyderabad	2012	75000	LPG	Manual	First	21.1 km/kg	814 CC	55.2 bhp	5		2.35
+6	Nissan Micra Diesel XV	Jaipur	2013	86999	Diesel	Manual	First	23.08 kmpl	1461 CC	63.1 bhp	5		3.5
+7	Toyota Innova Crysta 2.8 GX AT 8S	Mumbai	2016	36000	Diesel	Automatic	First	11.36 kmpl	2755 CC	171.5 bhp	8	21 Lakh	17.5
+8	Volkswagen Vento Diesel Comfortline	Pune	2013	64430	Diesel	Manual	First	20.54 kmpl	1598 CC	103.6 bhp	5		5.2
+9	Tata Indica Vista Quadrajet LS	Chennai	2012	65932	Diesel	Manual	Second	22.3 kmpl	1248 CC	74 bhp	5		1.95
+10	Maruti Ciaz Zeta	Kochi	2018	25692	Petrol	Manual	First	21.56 kmpl	1462 CC	103.25 bhp	5	10.65 Lakh	9.95
+11	Honda City 1.5 V AT Sunroof	Kolkata	2012	60000	Petrol	Automatic	First	16.8 kmpl	1497 CC	116.3 bhp	5		4.49
+12	Maruti Swift VDI BSIV	Jaipur	2015	64424	Diesel	Manual	First	25.2 kmpl	1248 CC	74 bhp	5		5.6
+13	Land Rover Range Rover 2.2L Pure	Delhi	2014	72000	Diesel	Automatic	First	12.7 kmpl	2179 CC	187.7 bhp	5		27
+14	Land Rover Freelander 2 TD4 SE	Pune	2012	85000	Diesel	Automatic	Second	0.0 kmpl	2179 CC	115 bhp	5		17.5
+15	Mitsubishi Pajero Sport 4X4	Delhi	2014	110000	Diesel	Manual	First	13.5 kmpl	2477 CC	175.56 bhp	7	32.01 Lakh	15
+16	Honda Amaze S i-Dtech	Kochi	2016	58950	Diesel	Manual	First	25.8 kmpl	1498 CC	98.6 bhp	5		5.4
+17	Maruti Swift DDiS VDI	Jaipur	2017	25000	Diesel	Manual	First	28.4 kmpl	1248 CC	74 bhp	5		5.99
+18	Renault Duster 85PS Diesel RxL Plus	Kochi	2014	77469	Diesel	Manual	First	20.45 kmpl	1461 CC	83.8 bhp	5		6.34
+19	Mercedes-Benz New C-Class C 220 CDI BE Avantgare	Bangalore	2014	78500	Diesel	Automatic	First	14.84 kmpl	2143 CC	167.62 bhp	5		28
+20	BMW 3 Series 320d	Kochi	2014	32982	Diesel	Automatic	First	22.69 kmpl	1995 CC	190 bhp	5	47.87 Lakh	18.55
+21	Maruti S Cross DDiS 200 Alpha	Bangalore	2015	55392	Diesel	Manual	Second	23.65 kmpl	1248 CC	88.5 bhp	5		8.25
+22	Audi A6 2011-2015 35 TFSI Technology	Mumbai	2015	55985	Petrol	Automatic	First	13.53 kmpl	1984 CC	177.01 bhp	5		23.5
+23	Hyundai i20 1.2 Magna	Kolkata	2010	45807	Petrol	Manual	First	18.5 kmpl	1197 CC	80 bhp	5		1.87
+24	Volkswagen Vento Petrol Highline AT	Kolkata	2010	33000	Petrol	Automatic	First	14.4 kmpl	1598 CC	103.6 bhp	5		2.85
+25	Honda City Corporate Edition	Mumbai	2012	51920	Petrol	Manual	First	16.8 kmpl	1497 CC	116.3 bhp	5		4.25
+26	Nissan Micra Diesel XV	Hyderabad	2012	54000	Diesel	Manual	First	23.08 kmpl	1461 CC	63.1 bhp	5		4.25
+27	Maruti Alto K10 2010-2014 VXI	Hyderabad	2013	54000	Petrol	Manual	Second	20.92 kmpl	998 CC	67.1 bhp	5		2.75
+28	Honda WRV i-VTEC VX	Kochi	2018	37430	Petrol	Manual	First	17.5 kmpl	1199 CC	88.7 bhp	5	10.57 Lakh	9.9
+29	Toyota Innova 2.5 V Diesel 7-seater	Mumbai	2007	262000	Diesel	Manual	Fourth & Above	12.8 kmpl	2494 CC	102 bhp	7		4
+30	Renault Duster 110PS Diesel RxZ Pack	Bangalore	2013	62000	Diesel	Manual	First	19.01 kmpl	1461 CC	108.45 bhp	5		7.75
+31	Toyota Corolla Altis G	Delhi	2012	87615	Petrol	Manual	First	14.53 kmpl	1798 CC	138.1 bhp	5		6.75
+32	Mahindra Ssangyong Rexton RX7	Bangalore	2013	72000	Diesel	Automatic	Second	11.18 kmpl	2696 CC	184 bhp	7		12.5
+33	Audi A6 2.7 TDI	Kolkata	2010	35000	Diesel	Automatic	First	12.4 kmpl	2698 CC	179.5 bhp	5		11.5
+34	Volkswagen Vento 1.6 Highline	Coimbatore	2014	55431	Petrol	Manual	Second	16.09 kmpl	1598 CC	103.5 bhp	5	12.33 Lakh	6.98
+35	Maruti Wagon R LXI BSIII	Jaipur	2009	83816	Petrol	Manual	Second	14.0 kmpl	1061 CC	64 bhp	5		1.85
+36	Maruti Vitara Brezza ZDi Plus	Kochi	2018	50075	Diesel	Manual	First	24.3 kmpl	1248 CC	88.5 bhp	5	11.12 Lakh	8.63
+37	Mahindra KUV 100 mFALCON G80 K6 5str AW	Delhi	2017	52000	Petrol	Manual	First	18.15 kmpl	1198 CC	82 bhp	5		4.85
+38	Mercedes-Benz M-Class ML 350 CDI	Pune	2013	85000	Diesel	Automatic	First	11.74 kmpl	2987 CC	254.8 bhp	5		28
+39	Volkswagen Polo Diesel Trendline 1.2L	Chennai	2013	62000	Diesel	Manual	First	22.07 kmpl	1199 CC	73.9 bhp	5		5
+40	Maruti Alto LXi	Delhi	2008	90000	Petrol	Manual	Second	19.7 kmpl	796 CC	46.3 bhp	5		1.25
+41	Tata Nano LX SE	Kochi	2014	19698	Petrol	Manual	First	25.4 kmpl	624 CC	37.5 bhp	4		1.53
+42	Mahindra KUV 100 mFALCON D75 K8 Dual Tone	Coimbatore	2017	22033	Diesel	Manual	First	25.32 kmpl	1198 CC	77 bhp	6		5.58
+43	Hyundai i20 Magna Optional 1.2	Kochi	2014	35487	Petrol	Manual	First	18.5 kmpl	1197 CC	82.9 bhp	5		4.74
+44	Hyundai Elantra 2.0 SX Option AT	Bangalore	2014	46374	Petrol	Automatic	First	14.62 kmpl	1999 CC	149.92 bhp	5	23.64 Lakh	8.85
+45	Toyota Corolla Altis G AT	Mumbai	2016	52001	Petrol	Automatic	First	14.28 kmpl	1798 CC	138.03 bhp	5		10.11
+46	Hyundai Elantra CRDi	Ahmedabad	2008	58005	Diesel	Manual	Second	14.9 kmpl	1991 CC	112.2 bhp	5		4.25
+47	Toyota Innova Crysta 2.7 GX MT	Bangalore	2012	70704	Petrol	Manual	First	11.25 kmpl	2694 CC	163.7 bhp	7	18.64 Lakh	10.95
+48	Hyundai Xcent 1.1 CRDi S	Jaipur	2014	75000	Diesel	Manual	First	24.4 kmpl	1120 CC	71 bhp	5		3.85
+49	Mahindra Thar CRDe AC	Jaipur	2012	75800	Diesel	Manual	Second	16.55 kmpl	2498 CC	105 bhp	6		5.5
+50	Audi A4 2.0 TDI 177 Bhp Premium Plus	Kochi	2015	13648	Diesel	Automatic	First	17.11 kmpl	1968 CC	174.33 bhp	5		21.43
+51	Maruti Swift LDI	Delhi	2014	52000	Diesel	Manual	First	22.9 kmpl	1248 CC	74 bhp	5		4.25
+52	Maruti Swift Ldi BSIV	Kolkata	2014	53000	Diesel	Manual	First	17.8 kmpl	1248 CC	75 bhp	5		3.3
+53	Maruti Swift VDI	Delhi	2013	65650	Diesel	Manual	First	28.4 kmpl	1248 CC	74 bhp	5		3.85
+54	Hyundai Grand i10 Sportz	Chennai	2015	54000	Petrol	Manual	Third	18.9 kmpl	1197 CC	82 bhp	5		3.6
+55	Volkswagen Vento 2013-2015 1.6 Comfortline	Kolkata	2015	39000	Petrol	Manual	First	15.04 kmpl	1598 CC	103.2 bhp	5		3.99
+56	Renault KWID RXT	Kochi	2017	16542	Petrol	Manual	First	25.17 kmpl	799 CC	53.3 bhp	5		3.3
+57	Hyundai i10 Asta	Kolkata	2010	32000	Petrol	Manual	First	20.36 kmpl	1197 CC	78.9 bhp	5		2.07
+58	Nissan X-Trail SLX AT	Hyderabad	2010	121812	Diesel	Automatic	First	13.29 kmpl	1995 CC	147.6 bhp	5		7.75
+59	Maruti Zen Estilo VXI BSIII	Hyderabad	2010	39300	Petrol	Manual	First	18.2 kmpl	998 CC	67.1 bhp	5		2.25
+60	Toyota Innova Crysta 2.4 GX MT 8S	Mumbai	2017	22000	Diesel	Manual	First	13.68 kmpl	2393 CC	147.8 bhp	8	19.34 Lakh	16.5
+61	Ford Figo Diesel Titanium	Bangalore	2010	72000	Diesel	Manual	First	20.0 kmpl	1399 CC	68 bhp	5		2.75
+62	Mercedes-Benz New C-Class C 200 CGI Avantgarde	Delhi	2015	58000	Petrol	Automatic	First	11.74 kmpl	1796 CC	186 bhp	5		26.7
+63	Mercedes-Benz New C-Class 200 CDI Classic	Pune	2011	65000	Diesel	Manual	Second	15.8 kmpl	2148 CC	170 bhp	5		10
+64	Tata Indica V2 eLS	Chennai	2016	178000	Diesel	Manual	First	25.0 kmpl	1396 CC	69 bhp	5		2.5
+65	Audi A4 2.0 TDI Multitronic	Jaipur	2012	65664	Diesel	Automatic	First	16.55 kmpl	1968 CC	140 bhp	5		13.5
+66	Honda City ZX CVT	Mumbai	2007	63000	Petrol	Automatic	Second	16.4 kmpl	1497 CC	78 bhp	5		1.85
+67	Mercedes-Benz C-Class Progressive C 220d	Coimbatore	2019	15369	Diesel	Automatic	First	0.0 kmpl	1950 CC	194 bhp	5	49.14 Lakh	35.67
+68	Maruti Ertiga SHVS VDI	Pune	2016	63000	Diesel	Manual	First	24.52 kmpl	1248 CC	88.5 bhp	7		8.15
+69	Hyundai Creta 1.4 E Plus Diesel	Mumbai	2018	13000	Diesel	Manual	First	22.1 kmpl	1396 CC	88.7 bhp	5	11.81 Lakh	10.5
+70	Porsche Cayenne 2009-2014 Turbo	Mumbai	2008	73000	Petrol	Automatic	First	8.5 kmpl	4806 CC	500 bhp	5		14.5
+71	Mahindra XUV500 W8 4WD	Mumbai	2015	55729	Diesel	Manual	First	15.1 kmpl	2179 CC	140 bhp	7		9.65
+72	Hyundai i10 Sportz 1.2 AT	Kochi	2012	45178	Petrol	Automatic	First	16.95 kmpl	1197 CC	78.9 bhp	5		3.48
+73	Nissan Terrano XV D Pre	Kochi	2015	56066	Diesel	Manual	First	19.64 kmpl	1461 CC	108.5 bhp	5	16.65 Lakh	6.92
+74	Honda Brio VX AT	Coimbatore	2016	37300	Petrol	Automatic	Second	16.5 kmpl	1198 CC	86.8 bhp	5		6.46
+75	Audi A6 2.0 TDI Design Edition	Delhi	2014	56000	Diesel	Automatic	Second	18.53 kmpl	1968 CC	187.74 bhp	5		29.5
+76	Ford Fiesta 1.4 SXi TDCi	Jaipur	2008	111111	Diesel	Manual	First	17.8 kmpl	1399 CC	null bhp	5		2
+77	Toyota Innova 2.0 G1	Chennai	2006	230000	Petrol	Manual	Third	12.4 kmpl	1998 CC	132 bhp	8		4.5
+78	Toyota Innova 2.5 VX 7 STR BSIV	Hyderabad	2012	104000	Diesel	Manual	First	12.8 kmpl	2494 CC	102 bhp	7		11.75
+79	Hyundai Santro Xing XL	Hyderabad	2005	87591	Petrol	Manual	First	0.0 kmpl	1086 CC	null bhp	5		1.3
+80	Maruti Swift VDI	Jaipur	2012	95100	Diesel	Manual	First	22.9 kmpl	1248 CC	74 bhp	5		3.75
+81	Tata Zest Revotron 1.2T XE	Pune	2017	70000	Petrol	Manual	First	17.57 kmpl	1193 CC	88.7 bhp	5	6.67 Lakh	4.5
+82	Honda Amaze SX i-VTEC	Kochi	2016	54944	Petrol	Manual	First	18.0 kmpl	1198 CC	86.7 bhp	5		4.82
+83	Ford Figo Diesel ZXI	Hyderabad	2012	70337	Diesel	Manual	First	20.0 kmpl	1399 CC	68 bhp	5		2.8
+84	Maruti Ritz VDi	Jaipur	2013	99638	Diesel	Manual	First	23.2 kmpl	1248 CC	73.94 bhp	5		3.11
+85	Honda City i VTEC E	Delhi	2009	52000	Petrol	Manual	First	17.8 kmpl	1497 CC	117.3 bhp	5		3.25
+86	BMW 5 Series 2003-2012 525d	Delhi	2011	75000	Diesel	Automatic	Second	16.73 kmpl	1995 CC	218 bhp	5		13.9
+87	Hyundai i10 Sportz 1.2	Pune	2009	95980	Petrol	Manual	First	20.36 kmpl	1197 CC	78.9 bhp	5		2.25
+88	Hyundai Grand i10 Sportz	Bangalore	2016	16000	Petrol	Manual	First	18.9 kmpl	1197 CC	82 bhp	5		5.75
+89	Hyundai Santro Xing XO	Hyderabad	2007	73745	Petrol	Manual	First	17.0 kmpl	1086 CC	null bhp	5		2.1
+90	Honda Amaze SX i-VTEC	Mumbai	2016	18949	Petrol	Manual	First	17.8 kmpl	1198 CC	86.7 bhp	5		5
+91	Toyota Fortuner 4x2 Manual	Delhi	2014	107000	Diesel	Manual	First	13.0 kmpl	2982 CC	168.5 bhp	7		16.5
+92	Audi A6 2011-2015 35 TDI Premium	Coimbatore	2018	48367	Diesel	Automatic	First	17.68 kmpl	1968 CC	174.33 bhp	5		39.58
+93	Ford Ecosport 1.5 DV5 MT Titanium Optional	Delhi	2013	57000	Diesel	Manual	First	22.7 kmpl	1498 CC	89.84 bhp	5		5.5
+94	Mahindra XUV500 W8 2WD	Delhi	2014	58000	Diesel	Manual	First	15.1 kmpl	2179 CC	140 bhp	7		8.1
+95	Honda Amaze SX i-DTEC	Kolkata	2015	30000	Diesel	Manual	First	25.8 kmpl	1498 CC	98.6 bhp	5		3.5
+96	Volkswagen Polo Diesel Highline 1.2L	Kolkata	2013	34212	Diesel	Manual	First	22.07 kmpl	1199 CC	73.9 bhp	5		2.79
+97	Hyundai Verna Transform SX VGT CRDi	Ahmedabad	2010	70002	Diesel	Manual	First	16.2 kmpl	1493 CC	110 bhp	5		3.45
+98	Maruti Wagon R VXI BS IV	Bangalore	2016	62000	Petrol	Manual	First	18.9 kmpl	998 CC	67.1 bhp	5		4.45
+99	Volkswagen Polo Petrol Highline 1.6L	Delhi	2010	62001	Petrol	Manual	First	15.26 kmpl	1598 CC	103.5 bhp	5		2.65
+100	Hyundai i20 1.4 CRDi Sportz	Pune	2011	78958	Diesel	Manual	Second	23.0 kmpl	1396 CC	90 bhp	5		3.8
+101	Hyundai i20 Asta 1.2	Mumbai	2014	30180	Petrol	Manual	First	18.5 kmpl	1197 CC	82.85 bhp	5		4.65
+102	Datsun GO Plus T Petrol	Pune	2017	32851	Petrol	Manual	First	19.83 kmpl	1198 CC	67 bhp	7	6.45 Lakh	3.95
+103	Audi A4 3.0 TDI Quattro Premium	Kolkata	2010	30000	Diesel	Automatic	First	14.94 kmpl	2967 CC	241.4 bhp	5		9.8
+104	Hyundai i20 2015-2017 Asta	Pune	2009	66000	Petrol	Manual	Second	17.0 kmpl	1197 CC	80 bhp	5		2.7
+105	Maruti Omni 5 Str STD	Coimbatore	2010	93850	Petrol	Manual	First	14.0 kmpl	796 CC	35 bhp	5		2.41
+106	Toyota Etios Liva 1.2 G	Ahmedabad	2014	53000	Petrol	Manual	First	17.71 kmpl	1197 CC	78.9 bhp	5	6.41 Lakh	3.9
+107	Jaguar XF 3.0 Litre S Premium Luxury	Hyderabad	2011	78000	Diesel	Automatic	Second	14.74 kmpl	2993 CC	270.9 bhp	5		24
+108	Mahindra XUV500 W8 2WD	Delhi	2012	65000	Diesel	Manual	Second	16.0 kmpl	2179 CC	140 bhp	7		5.75
+109	Hyundai Verna 1.6 SX CRDI (O) AT	Kolkata	2014	40000	Diesel	Automatic	First	22.32 kmpl	1582 CC	126.32 bhp	5		5.25
+110	Toyota Innova Crysta 2.8 ZX AT	Mumbai	2017	30000	Diesel	Automatic	First	11.36 kmpl	2755 CC	171.5 bhp	7	27 Lakh	19.25
+111	Maruti Eeco 5 Seater AC	Coimbatore	2017	38053	Petrol	Manual	First	15.1 kmpl	1196 CC	73 bhp	5	5.13 Lakh	3.91
+112	Tata Nano Twist XT	Bangalore	2014	25500	Petrol	Manual	First	25.4 kmpl	624 CC	37.5 bhp	4		2.15
+113	BMW 3 Series 320d Luxury Line	Mumbai	2015	56087	Diesel	Automatic	First	22.69 kmpl	1995 CC	190 bhp	5	54.43 Lakh	20.75
+114	Honda Civic 2006-2010 1.8 V MT	Delhi	2010	71088	Petrol	Manual	First	13.5 kmpl	1799 CC	130 bhp	5		3.35
+115	Toyota Innova 2.5 VX (Diesel) 7 Seater	Ahmedabad	2014	55000	Diesel	Manual	First	12.99 kmpl	2494 CC	100.6 bhp	7		11.11
+116	Volvo V40 Cross Country D3	Bangalore	2014	32700	Diesel	Automatic	First	23.3 kmpl	1984 CC	150 bhp	5		20
+117	Nissan Micra XV CVT	Coimbatore	2016	39882	Petrol	Automatic	First	19.15 kmpl	1198 CC	75.94 bhp	5	9.51 Lakh	6.55
+118	BMW 5 Series 2010-2013 525i	Mumbai	2009	128000	Petrol	Automatic	First	10.8 kmpl	2497 CC	215 bhp	5		7
+119	Maruti Vitara Brezza VDi	Mumbai	2016	55000	Diesel	Manual	First	24.3 kmpl	1248 CC	88.5 bhp	5	9.96 Lakh	7.5
+120	Hyundai Santro Xing XL eRLX Euro III	Mumbai	2005	102000	Petrol	Manual	Second	17.0 kmpl	1086 CC	null bhp	5		0.85
+121	Mercedes-Benz B Class B200 CDI	Pune	2014	53753	Diesel	Automatic	Second	15.0 kmpl	2143 CC	107.3 bhp	5		16.75
+122	Hyundai Verna CRDi 1.6 SX Option	Kolkata	2018	10250	Diesel	Manual	First	22.0 kmpl	1582 CC	126.2 bhp	5	14.44 Lakh	10.95
+123	Maruti Wagon R LXI BS IV	Pune	2011	43874	Petrol	Manual	First	18.9 kmpl	998 CC	67.1 bhp	5		2.45
+124	Tata Nano XTA	Coimbatore	2017	32684	Petrol	Automatic	First	21.9 kmpl	624 CC	37.48 bhp	4		3.23
+125	Mahindra Scorpio VLX	Kolkata	2014	42000	Diesel	Manual	First	12.05 kmpl	2179 CC	120 bhp	8		7.75
+126	Mercedes-Benz New C-Class 200 K AT	Kolkata	2009	28352	Petrol	Automatic	First	11.7 kmpl	1796 CC	178 bhp	5		9.35
+127	Maruti Wagon R LXI CNG	Pune	2013	89900	CNG	Manual	First	26.6 km/kg	998 CC	58.16 bhp	5		3.25
+128	Honda CR-V 2.4 MT	Bangalore	2007	47700	Petrol	Manual	Second	10.8 kmpl	2354 CC	152 bhp	5		5.25
+129	Volkswagen Vento 1.5 TDI Comfortline AT	Pune	2015	55000	Diesel	Automatic	First	21.21 kmpl	1498 CC	103.2 bhp	5		7.25
+130	Maruti Ciaz VXi Plus	Kochi	2017	44285	Petrol	Manual	First	20.73 kmpl	1373 CC	91.1 bhp	5		7.47
+131	Mahindra XUV500 AT W10 FWD	Jaipur	2016	54000	Diesel	Automatic	First	16.0 kmpl	2179 CC	140 bhp	7		13.25
+132	Maruti Ritz VXI ABS	Coimbatore	2016	30232	Petrol	Manual	First	21.1 kmpl	1197 CC	85.80 bhp	5		5.81
+133	Maruti Alto K10 VXI	Hyderabad	2014	88500	Petrol	Manual	First	24.07 kmpl	998 CC	67.1 bhp	5	4.53 Lakh	2.6
+134	Mercedes-Benz SLC 43 AMG	Kolkata	2017	13372	Petrol	Automatic	First	19.0 kmpl	2996 CC	362.07 bhp	2	95.04 Lakh	54
+135	Hyundai Verna VTVT 1.6 AT SX Plus	Kochi	2019	12645	Petrol	Automatic	First	17.0 kmpl	1591 CC	121.3 bhp	5	13.49 Lakh	11.5
+136	Maruti Alto LXi BSIII	Chennai	2010	94385	Petrol	Manual	Second	19.7 kmpl	796 CC	46.3 bhp	5		1.6
+137	BMW 1 Series 118d Base	Coimbatore	2015	31821	Diesel	Automatic	First	20.58 kmpl	1995 CC	143 bhp	5		17.22
+138	Honda Jazz 1.2 V CVT i VTEC	Mumbai	2015	12000	Petrol	Automatic	First	19.0 kmpl	1199 CC	88.7 bhp	5		6
+139	Honda Civic 2006-2010 1.8 V MT	Delhi	2012	88578	Petrol	Manual	First	13.5 kmpl	1799 CC	130 bhp	5		3.95
+140	Mercedes-Benz New C-Class C 220 CDI Avantgarde	Kochi	2014	44965	Diesel	Automatic	First	19.27 kmpl	2143 CC	170 bhp	5		17.95
+141	Honda Amaze SX i-DTEC	Kolkata	2014	45044	Diesel	Manual	First	25.8 kmpl	1498 CC	98.6 bhp	5		3.7
+142	Maruti Swift VVT VXI	Kochi	2016	34204	Petrol	Manual	First	22.0 kmpl	1197 CC	81.80 bhp	5		5.43
+143	Hyundai Santro Xing XO eRLX Euro II	Kochi	2008	80759	Petrol	Manual	Third	17.0 kmpl	1086 CC	null bhp	5		1.67
+144	Toyota Fortuner 3.0 Diesel	Coimbatore	2012	91235	Diesel	Manual	First	11.5 kmpl	2982 CC	171 bhp	7		13.49
+145	Chevrolet Beat LT Option	Pune	2014	38800	Petrol	Manual	First	18.6 kmpl	1199 CC	76.8 bhp	5		2.85
+146	Skoda Rapid 1.5 TDI Elegance	Chennai	2013	83000	Diesel	Manual	First	21.14 kmpl	1498 CC	103.52 bhp	5		4.75
+147	Maruti Ciaz 1.4 Alpha	Kochi	2018	41283	Petrol	Manual	First	20.73 kmpl	1373 CC	91.1 bhp	5		9.9
+148	Audi RS5 Coupe	Mumbai	2013	23000	Petrol	Automatic	First	11.05 kmpl	2894 CC	444 bhp	4	1.28 Cr	37
+149	BMW 3 Series Luxury Line	Mumbai	2014	48000	Diesel	Automatic	First	21.76 kmpl	1995 CC	190 bhp	5	60.88 Lakh	26.5
+150	Audi A4 2.0 TDI 177 Bhp Premium Plus	Coimbatore	2015	48214	Diesel	Automatic	First	17.11 kmpl	1968 CC	174.33 bhp	5		23.32
+151	Maruti Swift VDI	Chennai	2016	35000	Diesel	Manual	First	22.9 kmpl	1248 CC	74 bhp	5		6.25
+152	Mercedes-Benz S Class 2005 2013 S 500	Kolkata	2010	35277	Petrol	Automatic	First	7.81 kmpl	5461 CC	362.9 bhp	5		30
+153	Skoda Rapid 1.5 TDI AT Elegance Plus Black Package	Coimbatore	2016	54620	Diesel	Automatic	First	21.66 kmpl	1498 CC	103.52 bhp	5		9.86
+154	Skoda Superb Elegance 2.0 TDI CR AT	Pune	2012	136997	Diesel	Automatic	First	17.2 kmpl	1968 CC	138.1 bhp	5		8.5
+155	Hyundai EON Magna Plus	Kochi	2019	14322	Petrol	Manual	First	21.1 kmpl	814 CC	55.2 bhp	5		4.23
+156	Volkswagen Polo Diesel Trendline 1.2L	Jaipur	2012	65634	Diesel	Manual	First	22.07 kmpl	1199 CC	73.9 bhp	5		3.5
+157	Datsun GO NXT	Kolkata	2016	6000	Petrol	Manual	First	20.63 kmpl	1198 CC	67.06 bhp	5		2.5
+158	Honda Brio S MT	Kolkata	2013	33280	Petrol	Manual	First	19.4 kmpl	1198 CC	86.8 bhp	5		2.39
+159	Mercedes-Benz B Class B180	Delhi	2013	29000	Petrol	Automatic	First	14.8 kmpl	1595 CC	120.7 bhp	5		11.25
+160	Honda City i DTEC V	Kochi	2015	42831	Diesel	Manual	First	26.0 kmpl	1498 CC	98.6 bhp	5		7.11
+161	Toyota Innova 2.5 G (Diesel) 7 Seater	Ahmedabad	2016	90000	Diesel	Manual	First	12.99 kmpl	2494 CC	100.6 bhp	7		10.9
+162	Maruti Swift VXI Optional	Ahmedabad	2017	24005	Petrol	Manual	First	20.4 kmpl	1197 CC	81.80 bhp	5		6.2
+163	Mahindra XUV500 W8 2WD	Mumbai	2012	32792	Diesel	Manual	First	15.1 kmpl	2179 CC	140 bhp	7		7.9
+164	Ford Ecosport 1.5 DV5 MT Ambiente	Kochi	2014	147898	Diesel	Manual	First	22.7 kmpl	1498 CC	89.84 bhp	5		4.42
+165	Toyota Fortuner 4x2 Manual	Mumbai	2012	131765	Diesel	Manual	First	13.0 kmpl	2982 CC	168.5 bhp	7		13.5
+166	Volkswagen Vento 1.5 Highline Plus AT 16 Alloy	Chennai	2013	65000	Diesel	Automatic	First	21.5 kmpl	1498 CC	108.5 bhp	5		6.25
+167	Ford Figo Diesel Titanium	Jaipur	2010	66123	Diesel	Manual	Second	20.0 kmpl	1399 CC	68 bhp	5		2.1
+168	BMW X5 xDrive 30d	Mumbai	2015	41000	Diesel	Automatic	First	15.3 kmpl	2993 CC	258 bhp	5		45
+169	Mercedes-Benz New C-Class C 220 CDI Style	Coimbatore	2017	23550	Diesel	Automatic	First	19.27 kmpl	2143 CC	167.62 bhp	5		33.66
+170	Honda Brio V MT	Bangalore	2012	45000	Petrol	Manual	Second	19.4 kmpl	1198 CC	86.8 bhp	5		3.65
+171	Hyundai i10 Magna 1.2	Delhi	2013	60000	Petrol	Manual	First	20.36 kmpl	1197 CC	78.9 bhp	5		2.75
+172	Mercedes-Benz GLC 220	Bangalore	2016	44414	Diesel	Automatic	First	17.9 kmpl	2143 CC	170 bhp	5		42.5
+173	Hyundai Grand i10 1.2 Kappa Asta	Kolkata	2019	1000	Petrol	Manual	First	18.9 kmpl	1197 CC	81.86 bhp	5	7.39 Lakh	6.5
+174	Audi A6 2011-2015 2.0 TDI Premium Plus	Mumbai	2012	62500	Diesel	Automatic	Second	17.68 kmpl	1968 CC	174.33 bhp	5		19
+175	Volkswagen Vento Petrol Highline AT	Mumbai	2013	21000	Petrol	Automatic	Second	14.4 kmpl	1598 CC	103.6 bhp	5		4.45
+176	Mini Countryman Cooper D	Jaipur	2017	8525	Diesel	Automatic	Second	16.6 kmpl	1998 CC	112 bhp	5		23
+177	Hyundai i20 Asta 1.4 CRDi	Bangalore	2014	29000	Diesel	Manual	First	22.54 kmpl	1396 CC	88.73 bhp	5		8.35
+178	Audi A6 2011-2015 2.0 TDI Premium Plus	Mumbai	2014	40000	Diesel	Automatic	First	17.68 kmpl	1968 CC	174.33 bhp	5		22.95
+179	Chevrolet Beat Diesel LT	Jaipur	2012	88000	Diesel	Manual	First	25.44 kmpl	936 CC	57.6 bhp	5		1.5
+180	Skoda Superb Elegance 1.8 TSI AT	Kochi	2012	53537	Petrol	Automatic	First	13.7 kmpl	1798 CC	157.75 bhp	5		6.89
+181	Ford Fiesta 1.4 TDCi EXI Limited Edition	Chennai	2006	216000	Diesel	Manual	Second	17.8 kmpl	1399 CC	68 bhp	5		1.45
+182	BMW 5 Series 520d Luxury Line	Hyderabad	2014	51000	Diesel	Automatic	First	22.48 kmpl	1995 CC	190 bhp	5	69.47 Lakh	33.5
